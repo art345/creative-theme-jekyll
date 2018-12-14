@@ -1,15 +1,13 @@
 # Site settings
-title: Creative Theme
-email: theme@viennalabs.com
+title: The MeToo movement : a data story
+email: arthur.pere@epfl.ch
 description: > # this means to ignore newlines until "baseurl:"
- Creative is a one page Bootstrap theme for creatives, small businesses, and other multipurpose uses.
- The theme includes a number of rich features and plugins that you can use as a great boilerplate for your next Jekyll project!
+ This is our data story about the #MeToo movement.
 
 url: https://art345.github.io
 baseurl: /metoo-datastory/
 
-twitter_username: volnyio
-github_username:  volny
+github_username:  art345
 
 # Build settings
 markdown: kramdown
